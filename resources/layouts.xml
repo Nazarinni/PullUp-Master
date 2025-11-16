@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layouts>
+  <layout id="MainLayout">
+    <drawable id="Background" />
+    <drawable id="Title" />
+    <drawable id="Menu" />
+  </layout>
+  
+  <layout id="WorkoutLayout">
+    <drawable id="Background" />
+    <drawable id="Title" />
+    <drawable id="SetInfo" />
+    <drawable id="RepCounter" />
+    <drawable id="TotalReps" />
+    <drawable id="RestTimer" />
+  </layout>
+  
+  <layout id="HistoryLayout">
+    <drawable id="Background" />
+    <drawable id="Title" />
+    <drawable id="Stats" />
+    <drawable id="Records" />
+  </layout>
+  
+  <layout id="SettingsLayout">
+    <drawable id="Background" />
+    <drawable id="Title" />
+    <drawable id="Options" />
+  </layout>
+</layouts>
+

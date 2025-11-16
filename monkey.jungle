@@ -1,0 +1,14 @@
+# Monkey C Jungle file for PullUp Master
+
+# Manifest file
+project.manifest=manifest.json
+
+# Base project
+base.=/source
+
+# Resources
+resources.=/resources
+
+# Output
+output.=/bin
+

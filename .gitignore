@@ -1,0 +1,24 @@
+# Garmin Connect IQ build outputs
+bin/
+*.prg
+*.prg.debug.xml
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+

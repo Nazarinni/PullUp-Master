@@ -1,0 +1,79 @@
+{
+  "id": "pullup-master",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "type": "watch-app",
+  "name": "PullUp Master",
+  "description": "Plan, track, and improve your pull-up training with AI coaching",
+  "icon": "resources/icons/icon.png",
+  "sdkVersion": "4.1.0",
+  "targetPlatforms": [
+    "fenix5",
+    "fenix5Plus",
+    "fenix5S",
+    "fenix5SPlus",
+    "fenix5X",
+    "fenix5XPlus",
+    "fenix6",
+    "fenix6S",
+    "fenix6SPro",
+    "fenix6Pro",
+    "fenix6X",
+    "fenix6XPro",
+    "fenix7",
+    "fenix7S",
+    "fenix7X",
+    "vivoactive3",
+    "vivoactive4",
+    "vivoactive4S",
+    "vivoactive5",
+    "venu",
+    "venu2",
+    "venu2S",
+    "venu3",
+    "venu3S",
+    "forerunner245",
+    "forerunner245Music",
+    "forerunner745",
+    "forerunner945",
+    "forerunner955",
+    "forerunner965",
+    "edge530",
+    "edge830",
+    "edge1030",
+    "edge1030Plus",
+    "edge1040",
+    "edge840",
+    "edge540"
+  ],
+  "permissions": [
+    "Toybox.UserProfile",
+    "Toybox.System",
+    "Toybox.Application.Storage",
+    "Toybox.Time",
+    "Toybox.Activity"
+  ],
+  "appType": "watch-app",
+  "displayName": "PullUp Master",
+  "launcherIcon": "resources/icons/icon.png",
+  "eula": "https://www.garmin.com/en-US/legal/connect-iq-developer-terms-of-use/",
+  "privacyPolicy": "https://www.garmin.com/en-US/privacy/",
+  "developer": {
+    "name": "PullUp Master",
+    "email": "support@pullupmaster.com"
+  },
+  "products": [
+    {
+      "id": "pullup-master-pro",
+      "name": "PullUp Master Pro",
+      "price": 1.00,
+      "currency": "USD",
+      "type": "subscription",
+      "period": "monthly"
+    }
+  ]
+}
+

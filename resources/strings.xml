@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+  <!-- App Name -->
+  <string id="AppName">PullUp Master</string>
+  
+  <!-- Main Menu -->
+  <string id="StartWorkout">Start Workout</string>
+  <string id="ViewHistory">History</string>
+  <string id="Settings">Settings</string>
+  <string id="UpgradeToPro">Upgrade to Pro</string>
+  <string id="AICoach">AI Coach</string>
+  
+  <!-- Workout Screen -->
+  <string id="Workout">Workout</string>
+  <string id="Set">Set</string>
+  <string id="Reps">Reps</string>
+  <string id="Total">Total</string>
+  <string id="Rest">Rest</string>
+  <string id="Complete">Complete</string>
+  <string id="Target">Target</string>
+  <string id="Current">Current</string>
+  
+  <!-- History Screen -->
+  <string id="History">History</string>
+  <string id="Today">Today</string>
+  <string id="ThisWeek">This Week</string>
+  <string id="ThisMonth">This Month</string>
+  <string id="PersonalRecords">Personal Records</string>
+  <string id="MaxReps">Max Reps</string>
+  <string id="MaxDailyTotal">Max Daily Total</string>
+  <string id="TotalVolume">Total Volume</string>
+  
+  <!-- Settings Screen -->
+  <string id="WeeklyGoal">Weekly Goal</string>
+  <string id="WorkoutType">Workout Type</string>
+  <string id="DataSync">Data Sync</string>
+  <string id="About">About</string>
+  <string id="Version">Version</string>
+  
+  <!-- Workout Types -->
+  <string id="WorkoutTypeMax">3x Max Reps</string>
+  <string id="WorkoutTypePyramid">Pyramid</string>
+  <string id="WorkoutTypeEMOM">EMOM 10 min</string>
+  <string id="WorkoutTypeCustom">Custom</string>
+  
+  <!-- Pro Features -->
+  <string id="ProFeature">Pro Feature</string>
+  <string id="UnlockPro">Unlock Pro</string>
+  <string id="ProActive">Pro Active</string>
+  <string id="SubscriptionExpired">Subscription Expired</string>
+  <string id="RenewSubscription">Renew Subscription</string>
+  
+  <!-- AI Coach -->
+  <string id="RecommendedWorkout">Recommended Workout</string>
+  <string id="WorkoutTypeStrength">Strength</string>
+  <string id="WorkoutTypeEndurance">Endurance</string>
+  <string id="WorkoutTypeMixed">Mixed</string>
+  <string id="RestTime">Rest Time</string>
+  <string id="Intensity">Intensity</string>
+  <string id="BasedOnHistory">Based on your history</string>
+  
+  <!-- Analytics -->
+  <string id="Progress">Progress</string>
+  <string id="RateOfChange">Rate of Change</string>
+  <string id="EstimatedMax">Estimated Max</string>
+  <string id="VolumeTrend">Volume Trend</string>
+  
+  <!-- Messages -->
+  <string id="NoData">No data available</string>
+  <string id="Loading">Loading...</string>
+  <string id="Saving">Saving...</string>
+  <string id="Error">Error</string>
+  <string id="Success">Success</string>
+  
+  <!-- Buttons -->
+  <string id="Back">Back</string>
+  <string id="Next">Next</string>
+  <string id="Save">Save</string>
+  <string id="Cancel">Cancel</string>
+  <string id="Delete">Delete</string>
+  <string id="Edit">Edit</string>
+  <string id="Done">Done</string>
+  
+  <!-- User Profile -->
+  <string id="Weight">Weight</string>
+  <string id="Height">Height</string>
+  <string id="Age">Age</string>
+  <string id="Gender">Gender</string>
+</strings>
+
