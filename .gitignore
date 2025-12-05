@@ -22,3 +22,7 @@ Thumbs.db
 # Logs
 *.log
 
+# Developer keys (keep private!)
+developer_key.der
+*.der
+
